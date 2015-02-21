@@ -1,0 +1,17 @@
+{
+  "name": "es6-seed",
+  "version": "0.0.1",
+  "description": "Seed project to create ES6 apps",
+  "author": "Euan Goddard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euangoddard/es6-seed"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-webserver": "^0.9.0"
+  }
+}
