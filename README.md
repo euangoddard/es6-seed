@@ -11,11 +11,11 @@ There are also a few tasks which might come in handy for developing your next ja
 
 Download the seed project:
 
-`$ curl -O https://codeload.github.com/euangoddard/es6-seed/zip/master`
+`$ wget https://github.com/euangoddard/es6-seed/archive/master.zip -O project.zip`
 
-Unzip it and rename it to something sensible
+Unzip it
 
-`$ unzip master && mv es6-seed-master project`
+`$ unzip project.zip`
 
 Set up all the gulp dependencies
 
